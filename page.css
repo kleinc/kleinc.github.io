@@ -15,7 +15,7 @@ h1 {
 p {
     text-align: justify;
     font-family: arial;
-    line-height: 1.6em;
+    line-height: 1em;
 }
 div#title {
     font-size: 300%;
@@ -40,6 +40,7 @@ div#title {
 
 ul {
     line-height: 1em;
+    font-size: 110%;
 }
 
 .link {
