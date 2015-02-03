@@ -1,0 +1,52 @@
+body {
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    letter-spacing: .22em;
+    font-family: georgia, helvetica, arial, serif;
+    color:#348E00;
+    font-size: 125%;
+}
+
+p {
+    text-align: justify;
+    font-family: arial;
+    line-height: 1.6em;
+}
+div#title {
+    font-size: 300%;
+    font-family: georgia, serif;
+    color:#348E00;
+    margin-bottom: -50px;
+    letter-spacing: .22em;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.company {
+    font-weight: bold;
+}
+
+#exp {
+    margin-left: 30px;
+    line-height: 0.3em;
+}
+
+ul {
+    line-height: 1em;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover {
+    color:#348E00;
+}
