@@ -1,0 +1,55 @@
+body {
+    margin-top: 250px;
+}
+
+.crop {
+    height: 150px;
+    width: 150px;
+    overflow: hidden;
+    border-radius: 75px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+.crop img {
+    width: 310px;
+    height: 190px;
+    margin: -20px 0 0 -80px;
+}
+
+div#navbar {
+    text-align: center;
+    display: inline;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    word-spacing: 50px;
+}
+li {
+    display: inline-block;
+}
+
+a.navbar {
+    color: black;
+    font-family: georgia, helvetica, arial, serif;
+    text-decoration: none;
+    letter-spacing: .22em;
+    word-spacing: 100px;
+    font-size: 150%;
+    vertical-align: 240%;
+}
+a:hover {
+    color:#348E00;
+}
+
+hr {
+    width: 500px;
+}
+
+p {
+    font-style: italic;
+    text-align: right;
+    margin-right: 400px;
+    letter-spacing: .17em;
+    color:#348E00;
+}
