@@ -48,8 +48,8 @@ hr {
 
 p {
     font-style: italic;
-    text-align: right;
-    margin-right: 400px;
+    text-align: center;
+    margin-left: 300px;
     letter-spacing: .17em;
     color:#348E00;
 }
